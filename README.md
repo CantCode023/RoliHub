@@ -1,1 +1,1 @@
-Go to packages and download the zip file.
+Go to releases and download the zip file.
